@@ -1,5 +1,5 @@
 {
-  "name": "gemini",
+  "name": "@tcaraccia/gemini",
   "version": "1.0.0",
   "description": "a lightweight react component tailwind component library",
   "main": "./build/index.js",
